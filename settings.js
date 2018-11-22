@@ -10,10 +10,10 @@ module.exports = {
 		folder: "/home/user/example1",
 		branch: "master"
 	 }, 
-	 { 
-		url: "/yourteam/some.repository.example2/",
-		folder: "/home/user/example2",
-		branch: "develop"
-	 }]
+	 {
+         url: "OswaldoRodriguez/ohmyfi2",
+         folder: "/opt/lappstack-7.1.24-0/apps/ohmyfi/htdocs/",
+         branch: "desarrollo"
+     }]
 };
-	
+
